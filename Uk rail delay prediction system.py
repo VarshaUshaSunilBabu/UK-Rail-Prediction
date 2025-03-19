@@ -4,7 +4,7 @@ import seaborn as sns
 
 # Load the dataset
 file_path = "train_delay_data.csv"  # Update this with the actual file path
-df = pd.read_csv("C:\\Users\\varsh\\train delay data.csv")
+df = pd.read_csv("C:\\Users\\train delay data.csv")
 
 # Display basic information
 def data_overview(df):
