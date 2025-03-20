@@ -12,11 +12,19 @@ Train delays are a common challenge in the UK, affecting passengers and railway 
 🚆 Key Insights from the Data
 
 📌 Trains experience the **highest delays during Night** (~94.78 min).
+
 📌 The second highest delays occur during **Evening** (~93.54 min).
+
 📌 **Foggy weather leads to the longest delays (~108.09 min).**
+
 📌 This is slightly higher than delays in **Rainy weather** (~101.27 min).
+
 📌 High congestion contributes to **~35.98%** of total delays.
+
 📌 **Unexpected congestion impact:** The delay pattern does not strictly increase with congestion level.
+
 📌 Average delay for **low congestion**: ~108.89 min
+
 📌 Average delay for **medium congestion**: ~70.67 min
+
 📌 Average delay for **high congestion**: ~100.87 min
